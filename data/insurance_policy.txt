@@ -1,0 +1,49 @@
+=========================================================
+CERTIFICATE OF LIABILITY INSURANCE
+=========================================================
+DATE: June 12, 2026
+
+PRODUCER: 
+Apex Insurance Brokers
+102 Financial District, Gachibowli
+Hyderabad, Telangana 500032
+
+INSURED: 
+TechNova Solutions Pvt. Ltd.
+Plot 45, Cyber Meadows, Madhapur
+Hyderabad, Telangana 500081
+
+---------------------------------------------------------
+COVERAGES
+---------------------------------------------------------
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD INDICATED. 
+
+TYPE OF INSURANCE: Commercial General Liability
+POLICY NUMBER: CGL-HYD-987654
+EFFECTIVE DATE: 01/01/2026
+EXPIRATION DATE: 12/31/2026
+
+LIMITS:
+Each Occurrence: $1,000,000
+Damage to Rented Premises: $300,000
+Personal & Adv Injury: $1,000,000
+General Aggregate: $2,000,000
+Products - Comp/Op Agg: $2,000,000
+
+---------------------------------------------------------
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES
+---------------------------------------------------------
+Includes all standard liability coverages for IT consultancy operations in the Gachibowli and Madhapur zones.
+
+CERTIFICATE HOLDER:
+Global Tech Park Association
+Sector 2, Hitec City
+Hyderabad, Telangana 500084
+
+CANCELLATION: 
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE POLICY PROVISIONS.
+
+AUTHORIZED REPRESENTATIVE:
+Rajesh Kumar
+Signature: ______________________
+=========================================================

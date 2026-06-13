@@ -1,0 +1,26 @@
+# langchain
+# faiss-cpu
+# openai
+# sentence-transformers
+
+# pip install langchain==0.1.10
+# pip install langchain-community==0.2.19
+# pip install sentence-transformers
+# pip install faiss-cpu
+
+# langchain==0.2.17
+# langchain-community==0.2.19
+# sentence-transformers==3.0.1
+# faiss-cpu==1.8.0
+# openai>=1.0.0
+# python-dotenv>=1.0.0
+
+
+# langchain-text-splitters
+# sentence-transformers
+# numpy
+# openai
+# python-dotenv
+
+scikit-learn
+numpy
